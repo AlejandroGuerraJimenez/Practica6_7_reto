@@ -8,6 +8,7 @@ author: "Alejandro Guerra Jimenez"
 Este proyecto es una **simulación interactiva del Sistema Solar** desarrollada con [Three.js], diseñada con fines educativos y de exploración visual. Permite observar los planetas, lunas y anillos del sistema solar, así como interactuar con ellos mediante diferentes modos de cámara y controles de usuario.
 
 Proyecto original en: https://codesandbox.io/p/sandbox/practica-6-y-7-reto-d98dfq
+Video del proyecto: https://youtu.be/eegg_N-NNio
 ---
 
 # Tabla de Contenidos
@@ -188,4 +189,5 @@ Proyecto original en: https://codesandbox.io/p/sandbox/practica-6-y-7-reto-d98df
 # Conclusión
 
 El proyecto combina **visualización 3D**, **interacción en tiempo real** y **educación científica**, ofreciendo una experiencia intuitiva para explorar el Sistema Solar. El código está **comentado y estructurado** para aprendizaje y experimentación en Three.js.
+
 
