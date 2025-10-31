@@ -1,6 +1,6 @@
 ---
 title: "Sistema Solar Educativo"
-author: "Proyecto Three.js"
+author: "Alejandro Guerra Jimenez"
 ---
 
 # Descripción General
@@ -188,3 +188,4 @@ Proyecto original en: https://codesandbox.io/p/sandbox/practica-6-y-7-reto-d98df
 # Conclusión
 
 El proyecto combina **visualización 3D**, **interacción en tiempo real** y **educación científica**, ofreciendo una experiencia intuitiva para explorar el Sistema Solar. El código está **comentado y estructurado** para aprendizaje y experimentación en Three.js.
+
